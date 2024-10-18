@@ -1,0 +1,19 @@
+# Sistema de Controle de Estacionamento
+
+Este é um projeto de software desenvolvido em HTML e PHP para gerenciar o controle de carros em um estacionamento. O objetivo principal é facilitar o registro, consulta e gerenciamento das vagas disponíveis.
+
+## Funcionalidades
+
+- **Cadastro de veículos**: Permite registrar a entrada de veículos no estacionamento.
+- **Consulta de vagas**: Exibe as vagas disponíveis e ocupadas.
+- **Registro de saída**: Facilita o processo de saída do veículo e atualização do status da vaga.
+- **Interface amigável**: Design simples e intuitivo para fácil navegação.
+
+## Tecnologias Utilizadas
+
+- HTML
+- PHP
+- MySQL (ou qualquer banco de dados utilizado)
+- CSS (para estilização)
+
+
